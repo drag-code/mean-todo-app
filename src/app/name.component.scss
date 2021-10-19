@@ -1,0 +1,13 @@
+@import "../../node_modules/bootstrap-scss/bootstrap.scss";
+
+h1 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    padding: 1rem;
+    margin: 1em auto;
+    outline: none;
+    border-radius: 5px;
+}
